@@ -1,3 +1,4 @@
+"""This program demonstrate a simple liner regression"""
 import numpy as np
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
